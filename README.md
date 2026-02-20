@@ -134,10 +134,14 @@ This is for people who treat AI as a serious part of their workflow — not a no
 
 ---
 
+## About
+
+Created by [**xsqu1znt**](https://github.com/xsqu1znt)
+
+---
+
 <div align="center">
 
-**Created by [xsqu1znt](https://github.com/xsqu1znt)**
-
-Made with intention
+Built with 💜 for the coding + AI community
 
 </div>
